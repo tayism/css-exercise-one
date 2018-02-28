@@ -2,9 +2,9 @@ body {
   font-size: 14px;
 
 }
-
+/* this is where the updated content goes */
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -15,7 +15,7 @@ section {
   margin: 0 auto;
   width: 60%;
 }
-
+/* make sure sans-serif is used */
 h1 {
   font-family: sans-serif;
   font-size: 2em;
@@ -35,4 +35,8 @@ h3 {
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
+
+.lastThree {
+  background-color:#f2f2f2;
 }
